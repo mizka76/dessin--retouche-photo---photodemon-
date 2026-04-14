@@ -1,5 +1,5 @@
 ---
-title: "Ma page de recommandations"
+title: "Photodemon : logiciel de retouche photo gratuit"
 order: 0
 in_menu: true
 ---
@@ -22,7 +22,5 @@ Son créateur Tanner Helland le tient sans cesse à jour, ajoutant de nouvelles 
     <p>logiciel d'édition et de retouche photo</p>
     <div>
       <a href="https://photodemon.org/.">infos et téléchargement</a>
-      
     
-  </div>
-</article> 
+  </div> 
