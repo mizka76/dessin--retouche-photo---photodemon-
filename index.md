@@ -19,7 +19,7 @@ Son créateur Tanner Helland le tient sans cesse à jour, ajoutant de nouvelles 
 
   </div>
   <div>
-    <h2>PhotoDemon</h2>
+    <h2>PhotoDemon</h2>![Texte décrivant l'image]({% link images/photodemon-logo.jpg %})
     <p>logiciel d'édition et de retouche photo</p>
     <div>
       <a href="https://photodemon.org/.">infos et téléchargement</a>
