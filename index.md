@@ -15,7 +15,7 @@ Ex-enseignant en arts plastiques, je participe à la traduction française de ce
 Son créateur Tanner Helland le tient sans cesse à jour, ajoutant de nouvelles fonctionnalités. Ecrit en VB6, Photodemon fonctionne aussi bien sur xp que le dernier windows (dans un simple dossier, sans ramifications dans le système) et peut, à priori, être porté sur linux (à travers Wine).
 <article class="framalibre-notice">
   <div>
-   <img src=({% link images/photodemon-logo.jpg %}) />
+   ![logo du logiciel]({% link images/photodemon-logo.jpg %})
 
   </div>
   <div>
